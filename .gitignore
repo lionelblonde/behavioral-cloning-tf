@@ -1,0 +1,12 @@
+# Files
+*.swp
+*.pyc
+*.py~
+.DS_Store
+.idea
+*.sublime-project
+*.sublime-workspace
+.ipynb_checkpoints
+
+# Folders
+data/
